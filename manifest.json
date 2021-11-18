@@ -1,0 +1,13 @@
+{
+    "name":"LOL jokes",
+    "version":"0.0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": "apple.png"
+    },
+    "icons": {
+        "1200": "apple.png"
+    },
+    "permissions": ["activeTab"]
+}
